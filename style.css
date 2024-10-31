@@ -160,3 +160,9 @@ body {
   margin-left: 5vh;
   gap: 15px;
 }
+
+@media (max-width: 100vh) {
+  #links {
+    display: none;
+  }
+}

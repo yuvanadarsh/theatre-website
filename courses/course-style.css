@@ -1,0 +1,17 @@
+.content {
+  margin-top: 50px;
+  padding-left: 50px;
+  padding-right: 50px;
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.images {
+  display: flex;
+}
+
+.images img {
+  width: 20%;
+}

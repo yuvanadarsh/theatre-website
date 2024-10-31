@@ -1,0 +1,28 @@
+.table {
+  margin-top: 70px;
+  display: flex;
+  justify-content: center;
+  margin-left: 30px;
+  margin-right: 30px;
+  margin-bottom: 50px;
+}
+
+table {
+  font-weight: bold;
+  background-color: black;
+}
+
+pre {
+  font-family: Arial, Helvetica, sans-serif;
+  margin-top: 3px;
+  margin-bottom: 0px;
+  margin-left: 30px;
+}
+
+tr {
+  background-color: lightgray;
+}
+
+th {
+  background-color: grey;
+}
